@@ -104,6 +104,7 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:aaf412e98ab698a5724999c3da73650e5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_data_processing_1_1_vulnerabilities_identifier.html#aaf412e98ab698a5724999c3da73650e5">VulnerabilitiesIdentifier</a> (List&lt; List&lt; String &gt; &gt; <a class="el" href="class_data_processing_1_1_vulnerabilities_identifier.html#aef2e22eaff28eb189ad7a70c893f3c47">dataset</a>)</td></tr>
 <tr class="separator:aaf412e98ab698a5724999c3da73650e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a83ad96b6231e0c9ca9ad427b59b7ec5e"><td class="memItemLeft" align="right" valign="top">ArrayList&lt; ArrayList&lt; Integer &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_data_processing_1_1_vulnerabilities_identifier.html#a83ad96b6231e0c9ca9ad427b59b7ec5e">identify_vulnerabilities</a> (int uniqueness_threshold, int n_threads, <a class="el" href="enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1vulnerability_1_1ducc_1_1_d_u_c_c_1_1_strategy.html">DUCC.Strategy</a> strategy)</td></tr>
+<tr class="memdesc:a83ad96b6231e0c9ca9ad427b59b7ec5e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Identify vulnerabilities by DUCC algorithm. It is used to identify a set of item sets that are likely to violate the uniqueness constraint.  <br /></td></tr>
 <tr class="separator:a83ad96b6231e0c9ca9ad427b59b7ec5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
@@ -184,7 +185,17 @@ Public Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="_vulnerabilities_identifier_8java_source.html#l00030">30</a> of file <a class="el" href="_vulnerabilities_identifier_8java_source.html">VulnerabilitiesIdentifier.java</a>.</p>
+<p>Identify vulnerabilities by DUCC algorithm. It is used to identify a set of item sets that are likely to violate the uniqueness constraint. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">uniqueness_threshold</td><td>the number of items that are likely to violate the uniqueness constraint </td></tr>
+    <tr><td class="paramname">n_threads</td><td>the number of threads to use for the algorithm </td></tr>
+    <tr><td class="paramname">strategy</td><td>the algorithm to use for identification of vulner </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="definition">Definition at line <a class="el" href="_vulnerabilities_identifier_8java_source.html#l00036">36</a> of file <a class="el" href="_vulnerabilities_identifier_8java_source.html">VulnerabilitiesIdentifier.java</a>.</p>
 
 </div>
 </div>

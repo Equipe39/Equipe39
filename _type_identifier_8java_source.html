@@ -142,83 +142,89 @@ $(document).ready(function(){initNavTree('_type_identifier_8java_source.html',''
 <div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>          }</div>
 <div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>    }</div>
 <div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span> </div>
-<div class="line"><a id="l00049" name="l00049"></a><span class="lineno"><a class="line" href="class_data_processing_1_1_type_identifier.html#a6c3a7f7f98ea3738328c1760316b5a5a">   49</a></span>    <span class="keyword">public</span> String <a class="code hl_function" href="class_data_processing_1_1_type_identifier.html#a6c3a7f7f98ea3738328c1760316b5a5a">identify_type</a>(ArrayList&lt;String&gt; sample) {</div>
-<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span> </div>
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>      ArrayList&lt;String&gt; types = <span class="keyword">new</span> ArrayList&lt;&gt;();</div>
-<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>      <span class="keywordflow">for</span>(String data_point:sample) {</div>
-<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>        <span class="keywordflow">for</span> (<a class="code hl_interface" href="interfacecom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_identifier.html">Identifier</a> identifier: <a class="code hl_variable" href="class_data_processing_1_1_type_identifier.html#a9d050c96f730076a465bcdbcdc2c3795">identifiers</a>) {</div>
-<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>          <span class="keywordtype">boolean</span> match = identifier.isOfThisType(data_point);</div>
-<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>          <span class="keywordflow">if</span> (match == <span class="keyword">true</span>) {</div>
-<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>              types.add(identifier.getType().name());</div>
-<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>              <span class="keywordflow">continue</span>;</div>
-<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>          }</div>
-<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>        </div>
-<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>        }</div>
-<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span> </div>
-<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>      }</div>
-<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>      HashMap&lt;String, Integer&gt; frequencies = <span class="keyword">new</span> HashMap&lt;String, Integer&gt;();</div>
-<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span> </div>
-<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>      <span class="keywordflow">for</span> (String type : types) {</div>
-<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>        <span class="keywordflow">if</span> (frequencies.containsKey(type)) {</div>
-<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>            frequencies.put(type, frequencies.get(type) + 1);</div>
-<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>        } <span class="keywordflow">else</span> {</div>
-<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>            frequencies.put(type, 1);</div>
-<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span>        }</div>
-<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>      }</div>
-<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span> </div>
-<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>      </div>
-<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>      String most_frequent_type = <span class="keyword">null</span>;</div>
-<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>      <span class="keywordtype">int</span> max_count = 0;</div>
-<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>      <span class="keywordflow">for</span> (Map.Entry&lt;String, Integer&gt; entry : frequencies.entrySet()) {</div>
-<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span>          <span class="keywordflow">if</span> (entry.getValue() &gt; max_count) {</div>
-<div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>              most_frequent_type = entry.getKey();</div>
-<div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span>              max_count = entry.getValue();</div>
-<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>          }</div>
-<div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>      }</div>
-<div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span>      </div>
-<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>      <span class="keywordflow">if</span>(is_numerical(sample) &amp;&amp; most_frequent_type==<span class="keyword">null</span>) {</div>
-<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>        <span class="keywordflow">return</span> GENERIC_NUMBER_TYPE;</div>
-<div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span>      }</div>
-<div class="line"><a id="l00086" name="l00086"></a><span class="lineno">   86</span> </div>
-<div class="line"><a id="l00087" name="l00087"></a><span class="lineno">   87</span>      <span class="keywordflow">if</span>(!is_numerical(sample) &amp;&amp; most_frequent_type==<span class="keyword">null</span>) {</div>
-<div class="line"><a id="l00088" name="l00088"></a><span class="lineno">   88</span>        <span class="keywordflow">return</span> GENERIC_TEXT_TYPE;</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno"><a class="line" href="class_data_processing_1_1_type_identifier.html#a6c3a7f7f98ea3738328c1760316b5a5a">   54</a></span>    <span class="keyword">public</span> String <a class="code hl_function" href="class_data_processing_1_1_type_identifier.html#a6c3a7f7f98ea3738328c1760316b5a5a">identify_type</a>(ArrayList&lt;String&gt; sample) {</div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span> </div>
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>      ArrayList&lt;String&gt; types = <span class="keyword">new</span> ArrayList&lt;&gt;();</div>
+<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>      <span class="keywordflow">for</span>(String data_point:sample) {</div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>        <span class="keywordflow">for</span> (<a class="code hl_interface" href="interfacecom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_identifier.html">Identifier</a> identifier: <a class="code hl_variable" href="class_data_processing_1_1_type_identifier.html#a9d050c96f730076a465bcdbcdc2c3795">identifiers</a>) {</div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>          <span class="keywordtype">boolean</span> match = identifier.isOfThisType(data_point);</div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>          <span class="comment">// Add the type to the list of types.</span></div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>          <span class="keywordflow">if</span> (match == <span class="keyword">true</span>) {</div>
+<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>              types.add(identifier.getType().name());</div>
+<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>              <span class="keywordflow">continue</span>;</div>
+<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>          }</div>
+<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>        </div>
+<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>        }</div>
+<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span> </div>
+<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>      }</div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>      HashMap&lt;String, Integer&gt; frequencies = <span class="keyword">new</span> HashMap&lt;String, Integer&gt;();</div>
+<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span> </div>
+<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>      <span class="keywordflow">for</span> (String type : types) {</div>
+<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>        <span class="comment">// Add a frequency to the frequencies.</span></div>
+<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>        <span class="keywordflow">if</span> (frequencies.containsKey(type)) {</div>
+<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>            frequencies.put(type, frequencies.get(type) + 1);</div>
+<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span>        } <span class="keywordflow">else</span> {</div>
+<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>            frequencies.put(type, 1);</div>
+<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span>        }</div>
+<div class="line"><a id="l00078" name="l00078"></a><span class="lineno">   78</span>      }</div>
+<div class="line"><a id="l00079" name="l00079"></a><span class="lineno">   79</span> </div>
+<div class="line"><a id="l00080" name="l00080"></a><span class="lineno">   80</span>      </div>
+<div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>      String most_frequent_type = <span class="keyword">null</span>;</div>
+<div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span>      <span class="keywordtype">int</span> max_count = 0;</div>
+<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>      <span class="keywordflow">for</span> (Map.Entry&lt;String, Integer&gt; entry : frequencies.entrySet()) {</div>
+<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>          <span class="comment">// Set the most frequent type to the most frequent type.</span></div>
+<div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span>          <span class="keywordflow">if</span> (entry.getValue() &gt; max_count) {</div>
+<div class="line"><a id="l00086" name="l00086"></a><span class="lineno">   86</span>              most_frequent_type = entry.getKey();</div>
+<div class="line"><a id="l00087" name="l00087"></a><span class="lineno">   87</span>              max_count = entry.getValue();</div>
+<div class="line"><a id="l00088" name="l00088"></a><span class="lineno">   88</span>          }</div>
 <div class="line"><a id="l00089" name="l00089"></a><span class="lineno">   89</span>      }</div>
-<div class="line"><a id="l00090" name="l00090"></a><span class="lineno">   90</span> </div>
-<div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span>      <span class="keywordflow">return</span> most_frequent_type;</div>
-<div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span>    }</div>
+<div class="line"><a id="l00090" name="l00090"></a><span class="lineno">   90</span>      </div>
+<div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span>      <span class="keywordflow">if</span>(is_numerical(sample) &amp;&amp; most_frequent_type==<span class="keyword">null</span>) {</div>
+<div class="line"><a id="l00092" name="l00092"></a><span class="lineno">   92</span>      }</div>
 <div class="line"><a id="l00093" name="l00093"></a><span class="lineno">   93</span> </div>
-<div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>    Boolean is_numerical(ArrayList&lt;String&gt; list) {</div>
-<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span>      Pattern numerical_pattern = Pattern.compile(NUMERICAL_REGEX);</div>
-<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>      <span class="keywordtype">int</span> index = 0;</div>
-<div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>      <span class="keywordtype">int</span> null_count = 0;</div>
-<div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span>      <span class="keywordflow">for</span>(String element:list) {</div>
-<div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>        <span class="keywordflow">if</span>(element==<span class="keyword">null</span>) {</div>
-<div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span>          null_count++;</div>
-<div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>        } </div>
-<div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span>(!numerical_pattern.matcher(element).matches() || null_count==list.size()) {</div>
-<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>          <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>        }</div>
-<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>        <span class="keywordflow">if</span>(null_count==list.size()) {</div>
-<div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span>          <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>        }</div>
-<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>        index++;</div>
-<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>      }</div>
-<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>      <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span>      </div>
-<div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span>    }</div>
-<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span> </div>
-<div class="line"><a id="l00114" name="l00114"></a><span class="lineno"><a class="line" href="class_data_processing_1_1_type_identifier.html#add90090d4e34d7e9f13d29992fb1c0e5">  114</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code hl_function" href="class_data_processing_1_1_type_identifier.html#add90090d4e34d7e9f13d29992fb1c0e5">main</a>(String[] args) {</div>
-<div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>        </div>
-<div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>      }</div>
-<div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>    </div>
-<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>}</div>
+<div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>      <span class="comment">// Returns the type of sample.</span></div>
+<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span>      <span class="keywordflow">if</span>(!is_numerical(sample) &amp;&amp; most_frequent_type==<span class="keyword">null</span>) {</div>
+<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>        <span class="keywordflow">return</span> GENERIC_TEXT_TYPE;</div>
+<div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>      }</div>
+<div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span> </div>
+<div class="line"><a id="l00099" name="l00099"></a><span class="lineno">   99</span>      <span class="keywordflow">return</span> most_frequent_type;</div>
+<div class="line"><a id="l00100" name="l00100"></a><span class="lineno">  100</span>    }</div>
+<div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span> </div>
+<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>    Boolean is_numerical(ArrayList&lt;String&gt; list) {</div>
+<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span>      Pattern numerical_pattern = Pattern.compile(NUMERICAL_REGEX);</div>
+<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>      <span class="keywordtype">int</span> index = 0;</div>
+<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>      <span class="keywordtype">int</span> null_count = 0;</div>
+<div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span>      <span class="keywordflow">for</span>(String element:list) {</div>
+<div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span>        <span class="comment">// Check if the element is null or if the number of null elements matches the numerical pattern.</span></div>
+<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span>        <span class="keywordflow">if</span>(element==<span class="keyword">null</span>) {</div>
+<div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>          null_count++;</div>
+<div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>        } </div>
+<div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>        <span class="comment">// Returns true if the element matches the numerical pattern.</span></div>
+<div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span>(!numerical_pattern.matcher(element).matches() || null_count==list.size()) {</div>
+<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>          <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>        }</div>
+<div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>        <span class="comment">// Returns true if the list is empty.</span></div>
+<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>        <span class="keywordflow">if</span>(null_count==list.size()) {</div>
+<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>          <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span>        }</div>
+<div class="line"><a id="l00124" name="l00124"></a><span class="lineno">  124</span>        index++;</div>
+<div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span>      }</div>
+<div class="line"><a id="l00126" name="l00126"></a><span class="lineno">  126</span>      <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a id="l00127" name="l00127"></a><span class="lineno">  127</span>      </div>
+<div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span>    }</div>
+<div class="line"><a id="l00129" name="l00129"></a><span class="lineno">  129</span> </div>
+<div class="line"><a id="l00134" name="l00134"></a><span class="lineno"><a class="line" href="class_data_processing_1_1_type_identifier.html#add90090d4e34d7e9f13d29992fb1c0e5">  134</a></span>    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keywordtype">void</span> <a class="code hl_function" href="class_data_processing_1_1_type_identifier.html#add90090d4e34d7e9f13d29992fb1c0e5">main</a>(String[] args) {</div>
+<div class="line"><a id="l00135" name="l00135"></a><span class="lineno">  135</span>        </div>
+<div class="line"><a id="l00136" name="l00136"></a><span class="lineno">  136</span>      }</div>
+<div class="line"><a id="l00137" name="l00137"></a><span class="lineno">  137</span>    </div>
+<div class="line"><a id="l00138" name="l00138"></a><span class="lineno">  138</span>}</div>
 <div class="ttc" id="aclass_data_processing_1_1_type_identifier_html"><div class="ttname"><a href="class_data_processing_1_1_type_identifier.html">DataProcessing.TypeIdentifier</a></div><div class="ttdef"><b>Definition:</b> <a href="_type_identifier_8java_source.html#l00024">TypeIdentifier.java:24</a></div></div>
 <div class="ttc" id="aclass_data_processing_1_1_type_identifier_html_a0f4e1c9fb28d7ddcf59818cd9aded776"><div class="ttname"><a href="class_data_processing_1_1_type_identifier.html#a0f4e1c9fb28d7ddcf59818cd9aded776">DataProcessing.TypeIdentifier.input</a></div><div class="ttdeci">FileInputStream input</div><div class="ttdef"><b>Definition:</b> <a href="_type_identifier_8java_source.html#l00032">TypeIdentifier.java:32</a></div></div>
-<div class="ttc" id="aclass_data_processing_1_1_type_identifier_html_a6c3a7f7f98ea3738328c1760316b5a5a"><div class="ttname"><a href="class_data_processing_1_1_type_identifier.html#a6c3a7f7f98ea3738328c1760316b5a5a">DataProcessing.TypeIdentifier.identify_type</a></div><div class="ttdeci">String identify_type(ArrayList&lt; String &gt; sample)</div><div class="ttdef"><b>Definition:</b> <a href="_type_identifier_8java_source.html#l00049">TypeIdentifier.java:49</a></div></div>
+<div class="ttc" id="aclass_data_processing_1_1_type_identifier_html_a6c3a7f7f98ea3738328c1760316b5a5a"><div class="ttname"><a href="class_data_processing_1_1_type_identifier.html#a6c3a7f7f98ea3738328c1760316b5a5a">DataProcessing.TypeIdentifier.identify_type</a></div><div class="ttdeci">String identify_type(ArrayList&lt; String &gt; sample)</div><div class="ttdoc">Identify the type of a sample. This is based on the number of occurrences of each data point in the s...</div><div class="ttdef"><b>Definition:</b> <a href="_type_identifier_8java_source.html#l00054">TypeIdentifier.java:54</a></div></div>
 <div class="ttc" id="aclass_data_processing_1_1_type_identifier_html_a8d6c9033289937fccf16c499b769a5c7"><div class="ttname"><a href="class_data_processing_1_1_type_identifier.html#a8d6c9033289937fccf16c499b769a5c7">DataProcessing.TypeIdentifier.TypeIdentifier</a></div><div class="ttdeci">TypeIdentifier()</div><div class="ttdef"><b>Definition:</b> <a href="_type_identifier_8java_source.html#l00036">TypeIdentifier.java:36</a></div></div>
 <div class="ttc" id="aclass_data_processing_1_1_type_identifier_html_a9d050c96f730076a465bcdbcdc2c3795"><div class="ttname"><a href="class_data_processing_1_1_type_identifier.html#a9d050c96f730076a465bcdbcdc2c3795">DataProcessing.TypeIdentifier.identifiers</a></div><div class="ttdeci">Collection&lt; Identifier &gt; identifiers</div><div class="ttdef"><b>Definition:</b> <a href="_type_identifier_8java_source.html#l00034">TypeIdentifier.java:34</a></div></div>
 <div class="ttc" id="aclass_data_processing_1_1_type_identifier_html_aba70a2cc4fc9b63d8698acefa6fccbaf"><div class="ttname"><a href="class_data_processing_1_1_type_identifier.html#aba70a2cc4fc9b63d8698acefa6fccbaf">DataProcessing.TypeIdentifier.identifier_factory</a></div><div class="ttdeci">IdentifierFactory identifier_factory</div><div class="ttdef"><b>Definition:</b> <a href="_type_identifier_8java_source.html#l00033">TypeIdentifier.java:33</a></div></div>
-<div class="ttc" id="aclass_data_processing_1_1_type_identifier_html_add90090d4e34d7e9f13d29992fb1c0e5"><div class="ttname"><a href="class_data_processing_1_1_type_identifier.html#add90090d4e34d7e9f13d29992fb1c0e5">DataProcessing.TypeIdentifier.main</a></div><div class="ttdeci">static void main(String[] args)</div><div class="ttdef"><b>Definition:</b> <a href="_type_identifier_8java_source.html#l00114">TypeIdentifier.java:114</a></div></div>
+<div class="ttc" id="aclass_data_processing_1_1_type_identifier_html_add90090d4e34d7e9f13d29992fb1c0e5"><div class="ttname"><a href="class_data_processing_1_1_type_identifier.html#add90090d4e34d7e9f13d29992fb1c0e5">DataProcessing.TypeIdentifier.main</a></div><div class="ttdeci">static void main(String[] args)</div><div class="ttdoc">Entry point for the application. This is the main method that should be called from the class's main ...</div><div class="ttdef"><b>Definition:</b> <a href="_type_identifier_8java_source.html#l00134">TypeIdentifier.java:134</a></div></div>
 <div class="ttc" id="aclass_data_processing_1_1_type_identifier_html_ae91b7a195e04311a45bf3a1d7907a8ae"><div class="ttname"><a href="class_data_processing_1_1_type_identifier.html#ae91b7a195e04311a45bf3a1d7907a8ae">DataProcessing.TypeIdentifier.file</a></div><div class="ttdeci">File file</div><div class="ttdef"><b>Definition:</b> <a href="_type_identifier_8java_source.html#l00031">TypeIdentifier.java:31</a></div></div>
 <div class="ttc" id="aclasscom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_identifier_factory_html"><div class="ttname"><a href="classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_identifier_factory.html">com.ibm.research.drl.dpt.providers.identifiers.IdentifierFactory</a></div><div class="ttdef"><b>Definition:</b> <a href="_identifier_factory_8java_source.html#l00037">IdentifierFactory.java:37</a></div></div>
 <div class="ttc" id="aclasscom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_identifier_factory_html_ab114d1a1373955d7f7536e6a8b14d5c9"><div class="ttname"><a href="classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_identifier_factory.html#ab114d1a1373955d7f7536e6a8b14d5c9">com.ibm.research.drl.dpt.providers.identifiers.IdentifierFactory.availableIdentifiers</a></div><div class="ttdeci">Collection&lt; Identifier &gt; availableIdentifiers()</div><div class="ttdef"><b>Definition:</b> <a href="_identifier_factory_8java_source.html#l00127">IdentifierFactory.java:127</a></div></div>

@@ -110,15 +110,19 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a662267baff14d128cbb15259f6fd88da"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_data_processing_1_1_server.html#a662267baff14d128cbb15259f6fd88da">Server</a> ()</td></tr>
 <tr class="separator:a662267baff14d128cbb15259f6fd88da"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a449f78aa3fedbab20c1b2acea09e9999"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_data_processing_1_1_server.html#a449f78aa3fedbab20c1b2acea09e9999">run</a> ()</td></tr>
+<tr class="memdesc:a449f78aa3fedbab20c1b2acea09e9999"><td class="mdescLeft">&#160;</td><td class="mdescRight">This is the run method of the Thread. It creates a DefaultConsumer and starts it to handle messages.  <br /></td></tr>
 <tr class="separator:a449f78aa3fedbab20c1b2acea09e9999"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac666655c13504898090a227ce5f3ee71"><td class="memItemLeft" align="right" valign="top">ArrayList&lt; String &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_data_processing_1_1_server.html#ac666655c13504898090a227ce5f3ee71">identify_type</a> (ArrayList&lt; ArrayList&lt; String &gt; &gt; samples)</td></tr>
+<tr class="memdesc:ac666655c13504898090a227ce5f3ee71"><td class="mdescLeft">&#160;</td><td class="mdescRight">Identify the type of a list of samples. This is a utility method for use in testing. The sample list should be of the form " TYPE : SAMPLE ".  <br /></td></tr>
 <tr class="separator:ac666655c13504898090a227ce5f3ee71"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7da952d9e407901cf3a618913cb17bb4"><td class="memItemLeft" align="right" valign="top">ArrayList&lt; ArrayList&lt; Integer &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_data_processing_1_1_server.html#a7da952d9e407901cf3a618913cb17bb4">identify_vulnerabilities</a> (ArrayList&lt; ArrayList&lt; String &gt; &gt; dataset, int uniqueness_threshold, int n_threads)</td></tr>
+<tr class="memdesc:a7da952d9e407901cf3a618913cb17bb4"><td class="mdescLeft">&#160;</td><td class="mdescRight">identify vulnerabilities in a dataset based on uniqueness_threshold and n_threads. This is a wrapper for DUCC  <br /></td></tr>
 <tr class="separator:a7da952d9e407901cf3a618913cb17bb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a3eee7f839b67a0ad2f1d989058a44b0a"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_data_processing_1_1_server.html#a3eee7f839b67a0ad2f1d989058a44b0a">main</a> (String[] args)</td></tr>
+<tr class="memdesc:a3eee7f839b67a0ad2f1d989058a44b0a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Starts the server. This is the entry point for the server. It will create a Server and run it.  <br /></td></tr>
 <tr class="separator:a3eee7f839b67a0ad2f1d989058a44b0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -177,7 +181,15 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="_server_8java_source.html#l00189">189</a> of file <a class="el" href="_server_8java_source.html">Server.java</a>.</p>
+<p>Identify the type of a list of samples. This is a utility method for use in testing. The sample list should be of the form " TYPE : SAMPLE ". </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">samples</td><td>the list of samples to </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="definition">Definition at line <a class="el" href="_server_8java_source.html#l00214">214</a> of file <a class="el" href="_server_8java_source.html">Server.java</a>.</p>
 
 </div>
 </div>
@@ -221,7 +233,17 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="_server_8java_source.html#l00198">198</a> of file <a class="el" href="_server_8java_source.html">Server.java</a>.</p>
+<p>identify vulnerabilities in a dataset based on uniqueness_threshold and n_threads. This is a wrapper for DUCC </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">dataset</td><td>dataset to be analysed. </td></tr>
+    <tr><td class="paramname">uniqueness_threshold</td><td>number of unique elements in a dataset </td></tr>
+    <tr><td class="paramname">n_threads</td><td>number of threads to </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="definition">Definition at line <a class="el" href="_server_8java_source.html#l00229">229</a> of file <a class="el" href="_server_8java_source.html">Server.java</a>.</p>
 
 </div>
 </div>
@@ -249,7 +271,15 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="_server_8java_source.html#l00184">184</a> of file <a class="el" href="_server_8java_source.html">Server.java</a>.</p>
+<p>Starts the server. This is the entry point for the server. It will create a Server and run it. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">args</td><td>command line arguments not </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="definition">Definition at line <a class="el" href="_server_8java_source.html#l00205">205</a> of file <a class="el" href="_server_8java_source.html">Server.java</a>.</p>
 
 </div>
 </div>
@@ -276,7 +306,25 @@ Static Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="_server_8java_source.html#l00129">129</a> of file <a class="el" href="_server_8java_source.html">Server.java</a>.</p>
+<p>This is the run method of the Thread. It creates a DefaultConsumer and starts it to handle messages. </p>
+<p>Sets the server to use for communication. This is useful for unit testing and should not be used in production code </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">server</td><td>the server to use for communication </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>the Consumer object for method chaining ( fluent API ) usage. E. g. consumer = new Consumer ()</dd></dl>
+<p>Handles a message that arrives from RabbitMQ. This is the method that will be called by JNI when it receives a message from RabbitMQ </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">consumerTag</td><td>The consumer tag associated with the message </td></tr>
+    <tr><td class="paramname">envelope</td><td>The message envelope containing the routing key and the message body </td></tr>
+    <tr><td class="paramname">properties</td><td>The properties that will be set on the message </td></tr>
+    <tr><td class="paramname">body</td><td>The body of the message as a byte array</td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p class="definition">Definition at line <a class="el" href="_server_8java_source.html#l00132">132</a> of file <a class="el" href="_server_8java_source.html">Server.java</a>.</p>
 
 </div>
 </div>

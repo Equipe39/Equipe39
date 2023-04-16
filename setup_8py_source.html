@@ -94,8 +94,9 @@ $(document).ready(function(){initNavTree('setup_8py_source.html',''); initResiza
   <div class="headertitle"><div class="title">setup.py</div></div>
 </div><!--header-->
 <div class="contents">
-<a href="setup_8py.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno"><a class="line" href="namespacesetup.html">    1</a></span><span class="keyword">from</span> setuptools <span class="keyword">import</span> setup, find_packages  </div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno"><a class="line" href="namespacesetup.html#ab3a7a0638d76a01367c5bc3cc699447f">    2</a></span><a class="code hl_namespace" href="namespacesetup.html">setup</a>(name = <span class="stringliteral">&#39;src&#39;</span>, packages = find_packages())</div>
+<a href="setup_8py.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno"><a class="line" href="namespacesetup.html">    1</a></span><span class="comment"># Find and install packages that we&#39;ll use in the catalytic setup. This is a hack to get around issues with setuptools which can&#39;t be imported in the context</span></div>
+<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="keyword">from</span> setuptools <span class="keyword">import</span> setup, find_packages  </div>
+<div class="line"><a id="l00003" name="l00003"></a><span class="lineno"><a class="line" href="namespacesetup.html#ab3a7a0638d76a01367c5bc3cc699447f">    3</a></span><a class="code hl_namespace" href="namespacesetup.html">setup</a>(name = <span class="stringliteral">&#39;src&#39;</span>, packages = find_packages())</div>
 <div class="ttc" id="anamespacesetup_html"><div class="ttname"><a href="namespacesetup.html">setup</a></div><div class="ttdef"><b>Definition:</b> <a href="setup_8py_source.html#l00001">setup.py:1</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->

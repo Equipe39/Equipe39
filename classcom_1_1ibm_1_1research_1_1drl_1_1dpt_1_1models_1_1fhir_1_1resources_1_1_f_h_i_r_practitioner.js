@@ -1,0 +1,27 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner =
+[
+    [ "getAddress", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#a42e7af3ee3f1d73c47a122c3e40679f3", null ],
+    [ "getBirthDate", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#ad12c65e607e89e6fa57dbcecab6f3173", null ],
+    [ "getCommunication", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#a2ac0e1a56ff17b1a895d36792b1783be", null ],
+    [ "getGender", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#aba1fd3108c73e94640fa4ff16c1049d9", null ],
+    [ "getIdentifier", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#a38e0223b7258e31204a1953b385a236b", null ],
+    [ "getName", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#af88676de3515bbcb4c5672f5b8962d54", null ],
+    [ "getPhoto", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#a679443a4cf50350a284a20e71699af64", null ],
+    [ "getPractitionerRole", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#a0237d0a2a58ebac60b66bdeadf1c00f0", null ],
+    [ "getQualification", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#ad65bd2a5616a07f4a18e3efe24589020", null ],
+    [ "getResourceType", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#a7b351b981a8c4c1724ac80136500955c", null ],
+    [ "getTelecom", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#a7efa79d2e411161d88e4e0276627f409", null ],
+    [ "isActive", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#a8136af0c1115b911326a572106d624c5", null ],
+    [ "setActive", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#a38486ee96eeb807622f53e6dae531f22", null ],
+    [ "setAddress", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#ab6c60c26905f57b1ae426eaae7ac2762", null ],
+    [ "setBirthDate", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#ad270dcfeed3c652655fd4986d8fa8ae0", null ],
+    [ "setCommunication", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#a90c02dabf76f5d3efd14f97d2befa7f0", null ],
+    [ "setGender", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#a246baa79b403cd88b6bb1b7a66e6063b", null ],
+    [ "setIdentifier", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#a68b12acfb30b099931c702aef2bebb2b", null ],
+    [ "setName", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#ab0787dbf535b500b8915a0cf5fbab4bb", null ],
+    [ "setPhoto", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#aee88ffd3aa0837dc8dea87c6fb672ca9", null ],
+    [ "setPractitionerRole", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#a2207da58c957a48ed1e5708b5e075933", null ],
+    [ "setQualification", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#afbba8e40c98d044d27b692f64ff6adce", null ],
+    [ "setResourceType", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#ade538d31ecca5ce0343faa9d3f255dcc", null ],
+    [ "setTelecom", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1resources_1_1_f_h_i_r_practitioner.html#aeef97d1a54c780431337194c1fdf8eb5", null ]
+];

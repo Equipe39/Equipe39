@@ -1,0 +1,5 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1spark_1_1risk_1_1_transaction_uniqueness_options_test =
+[
+    [ "testValidConfiguration", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1spark_1_1risk_1_1_transaction_uniqueness_options_test.html#ab22ad1c54fef2ab851cf7159061b7c52", null ],
+    [ "testValidConfigurationWithJoin", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1spark_1_1risk_1_1_transaction_uniqueness_options_test.html#a85e89dbb01ea36d1b93035d1e26c7d70", null ]
+];

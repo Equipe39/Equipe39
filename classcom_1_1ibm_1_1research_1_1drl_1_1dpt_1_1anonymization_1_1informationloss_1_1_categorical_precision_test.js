@@ -1,0 +1,13 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_categorical_precision_test =
+[
+    [ "testCategorical", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_categorical_precision_test.html#afa4fbbeecf28a5f13317edaff94e7ef2", null ],
+    [ "testCategoricalPerColumn", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_categorical_precision_test.html#a0d79c28fad21c1d4acea55dd896cefa4", null ],
+    [ "testCategoricalSuppression", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_categorical_precision_test.html#a2ba20431e0295a0f94bec7a99b94d8d7", null ],
+    [ "testCategoricalWithFactory", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_categorical_precision_test.html#afb88e74484339e6d86b5866cd6b7578c", null ],
+    [ "testCategoricalWithOLA", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_categorical_precision_test.html#a829ba92da503e80517d2df00ea141cbc", null ],
+    [ "testCategoricalWithOLAWithTransformationLevels", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_categorical_precision_test.html#ab69687876517f289cd6e47b682d3b02d", null ],
+    [ "testCategoricalWithOLAWithTransformationLevelsWithWeights", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_categorical_precision_test.html#ab225785a1d25f6fc79308aded961c242", null ],
+    [ "testCategoricalWithWeightsMultipleColumns", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_categorical_precision_test.html#a6d95bbce9f64bb7a9e09e8f7c5c9f579", null ],
+    [ "testCategoricalWithWeightsSingleColumn", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_categorical_precision_test.html#a10eba73acb7ffcf312c0d89a32b86264", null ],
+    [ "testCategoricalWithWeightsSingleColumnZero", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_categorical_precision_test.html#a7af3cf366bec6ae7274e892a95eb390b", null ]
+];

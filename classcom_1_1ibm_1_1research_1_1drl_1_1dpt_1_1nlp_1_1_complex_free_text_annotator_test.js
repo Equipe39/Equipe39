@@ -1,0 +1,28 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test =
+[
+    [ "correctlyIdentifySSNEvenWhenInGarbageText", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#a56f1c7448432eec4a01c4ae3abd8c3f8", null ],
+    [ "findingMisteriousDrops", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#afd3daa3ba9fde0a7f46e58a7c6fb4e77", null ],
+    [ "repetitionOfEntitiesAreDetected", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#a6b94156cdc63364816e6a1858ba65f41", null ],
+    [ "splitIsDoneCorrectlyCase1", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#a6a5dcc6f2b28480115ef9a12a3402ad6", null ],
+    [ "splitIsDoneCorrectlyCase2", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#a96780f5bb83cfbc209717b755864dd71", null ],
+    [ "splitIsDoneCorrectlyCase3", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#ae30e20c8a89043e119e1c92f8e20f5c6", null ],
+    [ "splitIsDoneCorrectlyCase4", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#a3d4a86d3f6d0a9f9b821c57ae3004067", null ],
+    [ "splitIsDoneCorrectlyCase5", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#a6ccfd7ab1967f386d7fb29b7d27d4a97", null ],
+    [ "splitIsDoneCorrectlyCase6", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#ac4311153d7528636de04b928c1f43b18", null ],
+    [ "splitIsDoneCorrectlyCaseMultiple", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#adf1f0f624c32d9eed6121d4f1df3ae78", null ],
+    [ "testBlacklistByIdentifier", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#a6c05b0fe4cd844a580453333381fa195", null ],
+    [ "testComplexGeneratedFromConfiguration", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#a48c070460d26a08163e7dd1f8b6e55bb", null ],
+    [ "testDoNotReportDoesNotDropWantedEntities", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#acda9bb22e24c3339d30f1770a00c1ea6", null ],
+    [ "testDoNotReportUnwantedEntities", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#a264c419c953818e2166d2f6a322ab04d", null ],
+    [ "testHIPAA", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#a2c419a0af6f56a97e78841d2f6b38908", null ],
+    [ "testHIPAADates", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#a9880e2aa38ae95fa14ff620f4dea8753", null ],
+    [ "testInvalidAnnotatorNameAtWeights", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#aa1d0547972f38e924d3a27d49484f259", null ],
+    [ "testMergeDoesNotMergeDistinctIdentifiedEntities", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#aafb802448312259071a642a135c377f0", null ],
+    [ "testMergeIsDoneCorrectly", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#a45f10381d1a5701485bd20e245a46cfc", null ],
+    [ "testMergeIsDoneCorrectlyWithPoS", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#aab1f520778cd3cd3441a34d869f8a451", null ],
+    [ "testPipelineBasic", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#ab0dcbb4b3ba727b79e6b98319c93e649", null ],
+    [ "testPOSInformationIsUsedCorrectly", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#a4e2acad12357e7a47442f412a8710b78", null ],
+    [ "testUnreliable", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#a30358bfa363a6744edb9b7cc0d39893c", null ],
+    [ "testWithPrimaAndSystemT", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#a0a831ac92e58c9dda811a3147137cc95", null ],
+    [ "verifiesOrganization_Something_LocationIsMergedToOrganization", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1nlp_1_1_complex_free_text_annotator_test.html#a049d1c999225913e5a3d1538c6d5945c", null ]
+];

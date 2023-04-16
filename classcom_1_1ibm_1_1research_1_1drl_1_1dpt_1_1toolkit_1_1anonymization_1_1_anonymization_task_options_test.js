@@ -1,0 +1,7 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_test =
+[
+    [ "generateTaskOptionsForTesting", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_test.html#ac9afeaf9e9d0e3f2d803afb25036f07e", null ],
+    [ "getAllInformationMetricsTypes", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_test.html#a36dcac8a057632a39167f8b3dfd1cd95", null ],
+    [ "serializationExample", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_test.html#ad4f7adf1229f76fdf0c9eada60f3b5a5", null ],
+    [ "testDeserialization", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_test.html#a5c0e86aa2e4918fa2db438348d3fc19a", null ]
+];

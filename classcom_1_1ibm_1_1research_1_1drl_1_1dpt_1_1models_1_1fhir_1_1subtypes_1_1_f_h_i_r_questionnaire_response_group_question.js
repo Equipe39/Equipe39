@@ -1,0 +1,9 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1subtypes_1_1_f_h_i_r_questionnaire_response_group_question =
+[
+    [ "getAnswer", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1subtypes_1_1_f_h_i_r_questionnaire_response_group_question.html#ad5dfb080a3c42b812fcb9b6c9742bd99", null ],
+    [ "getLinkId", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1subtypes_1_1_f_h_i_r_questionnaire_response_group_question.html#a424d91e6c441c9f97953a963cc565120", null ],
+    [ "getText", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1subtypes_1_1_f_h_i_r_questionnaire_response_group_question.html#a56812a10c68058b8d9b5bd741736f200", null ],
+    [ "setAnswer", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1subtypes_1_1_f_h_i_r_questionnaire_response_group_question.html#a6a7d1045faf253a91b9857c8f5314dca", null ],
+    [ "setLinkId", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1subtypes_1_1_f_h_i_r_questionnaire_response_group_question.html#a357bb9c34f9531ab93de9ed3404857fd", null ],
+    [ "setText", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1models_1_1fhir_1_1subtypes_1_1_f_h_i_r_questionnaire_response_group_question.html#ad9eb57eee94bf8f136b37d5d38a75d1d", null ]
+];

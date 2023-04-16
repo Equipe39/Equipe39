@@ -1,0 +1,5 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_medical_pattern_identifier_test =
+[
+    [ "testIsInvalid", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_medical_pattern_identifier_test.html#ac1ec6f23ea541efbd22340f5d074eef0", null ],
+    [ "validateExtractedID", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_medical_pattern_identifier_test.html#a122fdf04b04c9830fa3b2581f3e2c69c", null ]
+];

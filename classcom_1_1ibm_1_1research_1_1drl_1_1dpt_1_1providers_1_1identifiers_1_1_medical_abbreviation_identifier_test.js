@@ -1,0 +1,4 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_medical_abbreviation_identifier_test =
+[
+    [ "testIsOfThisType", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_medical_abbreviation_identifier_test.html#a5a47bb35263fe5fa4fb5a63c528e8b29", null ]
+];

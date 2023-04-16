@@ -1,0 +1,4 @@
+var _dummy_suppression_reassignment_8java =
+[
+    [ "com.ibm.research.drl.dpt.anonymization.kmeans.DummySuppressionReassignment", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1kmeans_1_1_dummy_suppression_reassignment.html", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1kmeans_1_1_dummy_suppression_reassignment" ]
+];

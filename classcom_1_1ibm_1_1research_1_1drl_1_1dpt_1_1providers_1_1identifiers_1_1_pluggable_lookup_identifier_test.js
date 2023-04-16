@@ -1,0 +1,5 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_pluggable_lookup_identifier_test =
+[
+    [ "testRegisterOKIgnoreCase", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_pluggable_lookup_identifier_test.html#a106a34c74d0626486c420d3442dd08e6", null ],
+    [ "testRegisterOKMatchCase", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_pluggable_lookup_identifier_test.html#ac2a101d5cb8d918391cc67e24ab7abde", null ]
+];

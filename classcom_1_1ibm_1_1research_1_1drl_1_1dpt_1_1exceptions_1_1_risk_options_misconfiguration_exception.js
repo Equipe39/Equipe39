@@ -1,0 +1,4 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1exceptions_1_1_risk_options_misconfiguration_exception =
+[
+    [ "RiskOptionsMisconfigurationException", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1exceptions_1_1_risk_options_misconfiguration_exception.html#a282ccae1ccd93af8450c9aaee9559122", null ]
+];

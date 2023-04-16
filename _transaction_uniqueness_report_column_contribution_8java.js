@@ -1,0 +1,4 @@
+var _transaction_uniqueness_report_column_contribution_8java =
+[
+    [ "com.ibm.research.drl.dpt.toolkit.transaction_uniqueness.TransactionUniquenessReportColumnContribution", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1transaction__uniqueness_1_1_transaction_98bc3573cf5002204bc8f6a2779a54b7.html", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1transaction__uniqueness_1_1_transaction_98bc3573cf5002204bc8f6a2779a54b7" ]
+];

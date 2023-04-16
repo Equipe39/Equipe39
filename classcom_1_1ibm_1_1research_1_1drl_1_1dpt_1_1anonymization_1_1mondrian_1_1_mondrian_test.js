@@ -1,0 +1,25 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test =
+[
+    [ "testCategoricalOnly", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#a7143c9f3405d387ce954546581264559", null ],
+    [ "testCategoricalStrategies", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#a71ccfd291c896547a17f510feb2675a9", null ],
+    [ "testCorrectMiddleValues", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#a38b606f84b739971cf172bd9bad29883", null ],
+    [ "testFindCommonAncestor", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#a6461b02dfdf5f062c0ad04b02aa99c5d", null ],
+    [ "testMixNumericalCategorical", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#a7d5d0b8dbfe2f9cf3133b64a8ba85a3b", null ],
+    [ "testMondrianBoth", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#a64c9f48e8fe39a2e1b3330fd50892a4e", null ],
+    [ "testMondrianCategorical", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#a965b53d3abd55f6bdd452a887c268135", null ],
+    [ "testMondrianCategoricalCorrectness", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#a6684236d04259dc1331e5255cd61085d", null ],
+    [ "testMondrianCategoricalCorrectness2", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#aaea2204d17cedcb2be0ccf50e2e3b97e", null ],
+    [ "testMondrianCategoricalShouldGeneralizeToMiddleLevelHierarchySplit", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#a0119d558ef0f3184abfe3818ebeee5d8", null ],
+    [ "testMondrianColumnInformationAutoBuild", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#a48c4b5f98bf8145ac06e5bd0454c0a34", null ],
+    [ "testMondrianEmptyValueCategorical", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#ac4ded44b31ea2051b19ef8147c85384f", null ],
+    [ "testMondrianEmptyValueNumerical", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#a0dab8eda8d0fac47d16cf60e483f0dc8", null ],
+    [ "testMondrianNumerical", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#afd98d1a20a743250437f795b111416bc", null ],
+    [ "testMondrianNumerical100", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#aec3704cb1fed1c59ad2bb507de1faaf6", null ],
+    [ "testMondrianNumericalHole", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#ac14e639430c92f40b911af6a9889a073", null ],
+    [ "testMondrianOriginalIsNotMutated", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#ac9a6e163032252562c3b77e1f43c5203", null ],
+    [ "testMondrianPerformanceNumerical", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#ac26011ce595a2623470fbfff1a496915", null ],
+    [ "testNumericOnly", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#a43855a9d44c1cdfef3922adde9611de0", null ],
+    [ "testNumericOnlySimple", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#a94ac38e0ca31139a02975713fc3b2ffb", null ],
+    [ "testPartitions", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#a379126e28eaf87bd24a2a281c5edd365", null ],
+    [ "testPerformanceFlorida", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1mondrian_1_1_mondrian_test.html#a441fdd5567b4815efea9c83665e7a29e", null ]
+];

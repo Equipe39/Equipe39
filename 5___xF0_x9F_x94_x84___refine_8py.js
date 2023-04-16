@@ -1,0 +1,28 @@
+var 5___xF0_x9F_x94_x84___refine_8py =
+[
+    [ "col2", "5___xF0_x9F_x94_x84___refine_8py.html#a10d747028683aafbcc283602deeab7c8", null ],
+    [ "col_a", "5___xF0_x9F_x94_x84___refine_8py.html#a771874180aea39e71e13f3c4b3b8a292", null ],
+    [ "col_b", "5___xF0_x9F_x94_x84___refine_8py.html#a81b553277164a8c29b4fbc1850e94c3e", null ],
+    [ "col_to_format", "5___xF0_x9F_x94_x84___refine_8py.html#ac159d7ac21f779b7c7cf66d7b0e1dca3", null ],
+    [ "col_to_reset", "5___xF0_x9F_x94_x84___refine_8py.html#a1b84dca739defdd720099b837464d0c4", null ],
+    [ "df", "5___xF0_x9F_x94_x84___refine_8py.html#a6b69656908e3a9b5fdab64643133ecbe", null ],
+    [ "else", "5___xF0_x9F_x94_x84___refine_8py.html#a079d3535362a2ab5b8a33d7c1ce138fc", null ],
+    [ "f", "5___xF0_x9F_x94_x84___refine_8py.html#a434b1d09bfa1f7f841dab4ce1a282cbd", null ],
+    [ "format_type", "5___xF0_x9F_x94_x84___refine_8py.html#ab3ffda2a1e175068dba55cc8db26d5f3", null ],
+    [ "gb", "5___xF0_x9F_x94_x84___refine_8py.html#aa50c375938a1807310983f033696612d", null ],
+    [ "grid_response", "5___xF0_x9F_x94_x84___refine_8py.html#a0cef2d6e98efb8e89d9184f460e3b31d", null ],
+    [ "gridOptions", "5___xF0_x9F_x94_x84___refine_8py.html#a3ad8e6a1f7879a5e32da40b0ba1ca665", null ],
+    [ "groupSelectsChildren", "5___xF0_x9F_x94_x84___refine_8py.html#ae2ac97c5e28efeaa0d7d9216f9f83628", null ],
+    [ "inter_cols_pace", "5___xF0_x9F_x94_x84___refine_8py.html#ad898ea58ca7e18166b0590e85935e5de", null ],
+    [ "key", "5___xF0_x9F_x94_x84___refine_8py.html#aea8500dc2d65c477b6f3ef52d1f7cc98", null ],
+    [ "layout", "5___xF0_x9F_x94_x84___refine_8py.html#ac7016545e737139871bd7b444309e6f3", null ],
+    [ "paginationAutoPageSize", "5___xF0_x9F_x94_x84___refine_8py.html#ab27cace1f974896bdbc7330b4b3a3c3c", null ],
+    [ "sample_size_input", "5___xF0_x9F_x94_x84___refine_8py.html#afbc9dc56fc9610f0154a4820fcf8538f", null ],
+    [ "submit_format", "5___xF0_x9F_x94_x84___refine_8py.html#a7bd4e309d7e7e855dbc65df97d9a26b4", null ],
+    [ "submit_identify_type", "5___xF0_x9F_x94_x84___refine_8py.html#aac4bde8063d8f48592b92b0fbade9f5b", null ],
+    [ "submit_reset", "5___xF0_x9F_x94_x84___refine_8py.html#a0bffdf9b16730349bcd045feff60c664", null ],
+    [ "submit_reset_all", "5___xF0_x9F_x94_x84___refine_8py.html#a7a2ee4d6a555b1bb0b9dc5af5539456e", null ],
+    [ "try", "5___xF0_x9F_x94_x84___refine_8py.html#ab84d730cbcee83c804f39c728d54562b", null ],
+    [ "types", "5___xF0_x9F_x94_x84___refine_8py.html#a6f87527891f0f47aa97ddf6657b9ea5f", null ],
+    [ "use_checkbox", "5___xF0_x9F_x94_x84___refine_8py.html#a9f948e33a0a8b9d87bd8a6e8daea555a", null ]
+];

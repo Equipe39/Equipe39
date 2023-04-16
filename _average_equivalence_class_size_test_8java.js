@@ -1,0 +1,4 @@
+var _average_equivalence_class_size_test_8java =
+[
+    [ "com.ibm.research.drl.dpt.anonymization.informationloss.AverageEquivalenceClassSizeTest", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_average_equivalence_class_size_test.html", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_average_equivalence_class_size_test" ]
+];

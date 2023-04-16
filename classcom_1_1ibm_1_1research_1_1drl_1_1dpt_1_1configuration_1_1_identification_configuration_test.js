@@ -1,0 +1,4 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1configuration_1_1_identification_configuration_test =
+[
+    [ "testFromNode", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1configuration_1_1_identification_configuration_test.html#a664d2ca830c4de804c052bad4a46193b", null ]
+];

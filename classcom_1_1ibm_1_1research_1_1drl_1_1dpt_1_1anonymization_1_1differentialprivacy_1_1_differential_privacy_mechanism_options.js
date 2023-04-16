@@ -1,0 +1,24 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options =
+[
+    [ "DifferentialPrivacyMechanismOptions", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#a5a98c3407cbb41ac999a42dd1ba1f582", null ],
+    [ "DifferentialPrivacyMechanismOptions", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#a32fa5589c9307ab5ad8fdac639d8861a", null ],
+    [ "DPPerEquivalenceClass", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#a515cad878c9eebbac97778086aead2f7", null ],
+    [ "getBinaryValues", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#a8df30755a4cadd5b54f7a33049a031e2", null ],
+    [ "getBounds", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#a27b740e76b88d9c11fcbfc535cc4ede8", null ],
+    [ "getBoundsFromData", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#a2df00b539983565c5755e5e8cc5b1eed", null ],
+    [ "getEpsilon", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#ac9580f7dcc9fabf1aa7d2053daa430a9", null ],
+    [ "getHierarchy", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#ad306c116f093698d3a40c57aa1404aae", null ],
+    [ "getIntValue", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#a5fa6d1f326a85f08fa6d4604f3ba46e7", null ],
+    [ "getMechanism", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#a77821bca1eebd07fb9e3d37de0dc7000", null ],
+    [ "getStringValue", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#a41ad2592ed5e6a79c99e35e3a2fcfbdd", null ],
+    [ "isAutodetectBinaryValues", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#a74a12aeea78d2ca8b0de002628aec647", null ],
+    [ "isAutodetectBounds", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#a61b3937ed9d49b5e147edf6935fbcf33", null ],
+    [ "isDPPerEquivalenceClass", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#ab2470c13a4902218d0abc4cd1f8333ee", null ],
+    [ "isGetBoundsFromData", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#a4dc4ef684c1c5c5f5c0e0eafa209aa20", null ],
+    [ "setAutodetectBinaryValues", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#a234751126ff0ad631afbee4d8b436b7d", null ],
+    [ "setAutodetectBounds", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#a814f921bc6ed458addba50baabacc490", null ],
+    [ "setBinaryValues", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#ae21ce47b17364eef7674a15bf32a908e", null ],
+    [ "setBounds", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#a42ed0e6dff74bf04efecc6b1cda05ff1", null ],
+    [ "setEpsilon", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#a27e67e2c12ddcd30470a4d1db0f9404c", null ],
+    [ "setHierarchy", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_mechanism_options.html#a116f2a57f547da5b7ea8b1d6eca2749d", null ]
+];

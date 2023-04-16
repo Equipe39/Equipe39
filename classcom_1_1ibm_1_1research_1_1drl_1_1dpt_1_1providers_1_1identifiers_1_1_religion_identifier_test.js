@@ -1,0 +1,4 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_religion_identifier_test =
+[
+    [ "testIsOfThisType", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_religion_identifier_test.html#a5950e5cf6106c6e6d798773080c3e295", null ]
+];

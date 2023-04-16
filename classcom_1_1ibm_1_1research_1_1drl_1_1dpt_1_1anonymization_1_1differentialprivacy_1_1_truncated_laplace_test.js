@@ -1,0 +1,7 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_truncated_laplace_test =
+[
+    [ "testCorrectResultsWithOptions", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_truncated_laplace_test.html#a3517b0108f89149b2614226db17b7800", null ],
+    [ "testInvalidBounds", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_truncated_laplace_test.html#ab3d2c69a1e69ad599be30a91655b0407", null ],
+    [ "testNegativeEpsilonThroughOptions", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_truncated_laplace_test.html#a9b427de1e818792b55c1a4a6cd56194d", null ],
+    [ "testPerformance", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_truncated_laplace_test.html#a5a4c347f488a700dd0e4d001d1923205", null ]
+];

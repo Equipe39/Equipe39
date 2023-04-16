@@ -1,0 +1,4 @@
+var interfacecom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_luhn_based_identifier =
+[
+    [ "checkLastDigit", "interfacecom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_luhn_based_identifier.html#a88eee1354fda1f057a896d8d718568e3", null ]
+];

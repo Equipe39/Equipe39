@@ -1,0 +1,6 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_global_certainty_penalty_test =
+[
+    [ "testCategoricalNoLoss", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_global_certainty_penalty_test.html#a5833d84975126b7a0ebff7483d269ec5", null ],
+    [ "testCategoricalWithLoss", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_global_certainty_penalty_test.html#ab9cd0d3944c089da8f035db810015c5b", null ],
+    [ "testGCPNumeric", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_global_certainty_penalty_test.html#ab3522f3cffd759e432dd48276e70ec02", null ]
+];

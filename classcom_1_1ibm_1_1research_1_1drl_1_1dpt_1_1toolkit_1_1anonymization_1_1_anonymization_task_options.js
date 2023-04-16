@@ -1,0 +1,15 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options =
+[
+    [ "AnonymizationAlgorithm", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_1_1_anonymization_algorithm.html", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_1_1_anonymization_algorithm" ],
+    [ "InformationLossMetric", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_1_1_information_loss_metric.html", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_1_1_information_loss_metric" ],
+    [ "AnonymizationTaskOptions", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options.html#a634db614e4c4ca5126015850e820901d", null ],
+    [ "getAlgorithm", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options.html#adcab766d6f5ecbe56f8d4ccda2940859", null ],
+    [ "getCategoricalSplitStrategy", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options.html#ac12b1eb1def4d0732f595c7978b05706", null ],
+    [ "getColumnInformation", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options.html#ad252b7cbab4fe19b4692784b973daebe", null ],
+    [ "getInformationLoss", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options.html#ac574368a513a72d9988dfbca5cee8c78", null ],
+    [ "getPathToTrashFile", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options.html#a67b6c0a7edba48c14d3ce8085ac6aa21", null ],
+    [ "getPercentage", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options.html#af19e90b5a396f6de66a60ab86c64dea1", null ],
+    [ "getPrivacyConstraints", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options.html#a96e4efed32a70add8648b6842fc16dd1", null ],
+    [ "getStrategyOptions", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options.html#a110934a5446866f695b50c015f3cc401", null ],
+    [ "getSuppressionRate", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options.html#a5c1ef1deb0eb535642739787661ab9c5", null ]
+];

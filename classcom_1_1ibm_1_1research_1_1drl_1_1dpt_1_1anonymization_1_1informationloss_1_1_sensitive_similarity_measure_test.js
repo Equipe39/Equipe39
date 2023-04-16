@@ -1,0 +1,7 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_sensitive_similarity_measure_test =
+[
+    [ "dummyComplete", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_sensitive_similarity_measure_test.html#a1c7d657e039be24ffd5ea2cb848dd34d", null ],
+    [ "dummyDatasetForDebug", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_sensitive_similarity_measure_test.html#a88ac54f7a08bce01525de78c8de36dde", null ],
+    [ "dummyDatasetForDebug2", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_sensitive_similarity_measure_test.html#aca3bd7e8515fab6ca1eb91bd9c2e8108", null ],
+    [ "metricOnOriginalNotAnonymizedReturnsZero", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_sensitive_similarity_measure_test.html#a0e5c78bee1f3f003062931a1aa6bd2c3", null ]
+];

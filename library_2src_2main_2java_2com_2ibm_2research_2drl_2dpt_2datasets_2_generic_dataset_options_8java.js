@@ -1,0 +1,4 @@
+var library_2src_2main_2java_2com_2ibm_2research_2drl_2dpt_2datasets_2_generic_dataset_options_8java =
+[
+    [ "com.ibm.research.drl.dpt.datasets.GenericDatasetOptions", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1datasets_1_1_generic_dataset_options.html", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1datasets_1_1_generic_dataset_options" ]
+];

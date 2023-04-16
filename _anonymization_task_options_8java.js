@@ -1,0 +1,6 @@
+var _anonymization_task_options_8java =
+[
+    [ "com.ibm.research.drl.dpt.toolkit.anonymization.AnonymizationTaskOptions", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options.html", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options" ],
+    [ "com.ibm.research.drl.dpt.toolkit.anonymization.AnonymizationTaskOptions.AnonymizationAlgorithm", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_1_1_anonymization_algorithm.html", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_1_1_anonymization_algorithm" ],
+    [ "com.ibm.research.drl.dpt.toolkit.anonymization.AnonymizationTaskOptions.InformationLossMetric", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_1_1_information_loss_metric.html", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_1_1_information_loss_metric" ]
+];

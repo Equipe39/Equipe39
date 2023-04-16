@@ -1,0 +1,5 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1risk_1_1_hypergeometric_risk_metric_test =
+[
+    [ "generationOfPartitionsForLinkingWithLinkColumnInformationThrows", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1risk_1_1_hypergeometric_risk_metric_test.html#ae83f94c30c09e12f821629b3d693c557", null ],
+    [ "generationOfPartitionsForLinkingWithNoColumnInformationThrows", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1risk_1_1_hypergeometric_risk_metric_test.html#a2b82898c017096223d9a1ec40a0fb34d", null ]
+];

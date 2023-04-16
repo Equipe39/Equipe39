@@ -1,0 +1,27 @@
+var 2___xF0_x9F_x94_x8E___preview_8py =
+[
+    [ "case", "2___xF0_x9F_x94_x8E___preview_8py.html#ad3761519e1d2339713aa37532971cf03", null ],
+    [ "col1", "2___xF0_x9F_x94_x8E___preview_8py.html#a87a1a0b10445d035f8af2ced9e004f38", null ],
+    [ "col2", "2___xF0_x9F_x94_x8E___preview_8py.html#a4ca935c31d9555503f3609dc70bab719", null ],
+    [ "col3", "2___xF0_x9F_x94_x8E___preview_8py.html#a7fff0b29e59d5118867aac6c927310b4", null ],
+    [ "col4", "2___xF0_x9F_x94_x8E___preview_8py.html#a32ad142451af792df86605b65e379f56", null ],
+    [ "col_a", "2___xF0_x9F_x94_x8E___preview_8py.html#a4d29bc1cf8413bfcd640029ad0a82a12", null ],
+    [ "col_b", "2___xF0_x9F_x94_x8E___preview_8py.html#a5094102ddcdc1f13ebc3c4e21d33c3df", null ],
+    [ "col_to_case", "2___xF0_x9F_x94_x8E___preview_8py.html#ac33479e353debd6f1efb585587e4afd2", null ],
+    [ "col_to_change", "2___xF0_x9F_x94_x8E___preview_8py.html#a4d64b9e0f05735dadbba1e03902a72d4", null ],
+    [ "columns", "2___xF0_x9F_x94_x8E___preview_8py.html#aeff81e883d01248da5297a2927f9f188", null ],
+    [ "data", "2___xF0_x9F_x94_x8E___preview_8py.html#ab5e66ac1279daaf95bd302bd443bec5b", null ],
+    [ "else", "2___xF0_x9F_x94_x8E___preview_8py.html#abe188669668b9959c884deca8d4dcfb1", null ],
+    [ "gb", "2___xF0_x9F_x94_x8E___preview_8py.html#a0c3e19a4c3e8dc259e0844d8a89bfe94", null ],
+    [ "grid_response", "2___xF0_x9F_x94_x8E___preview_8py.html#a6e4b8bec387769d02c1120cbc196997d", null ],
+    [ "gridOptions", "2___xF0_x9F_x94_x8E___preview_8py.html#a352f22b9544a7a4517843e2a1be63e3f", null ],
+    [ "groupSelectsChildren", "2___xF0_x9F_x94_x8E___preview_8py.html#a8c8a3359d193021e833128b9f4be22d1", null ],
+    [ "key", "2___xF0_x9F_x94_x8E___preview_8py.html#a60f4394053577199375da3e30b17e344", null ],
+    [ "layout", "2___xF0_x9F_x94_x8E___preview_8py.html#ae05d2bff0bd11e000d6eb7c700a6532e", null ],
+    [ "new_col_name", "2___xF0_x9F_x94_x8E___preview_8py.html#addce339bf3701c12b66804a18452a19c", null ],
+    [ "paginationAutoPageSize", "2___xF0_x9F_x94_x8E___preview_8py.html#afb796af86d3df582597e6408b5da90a9", null ],
+    [ "submit_button", "2___xF0_x9F_x94_x8E___preview_8py.html#a17336d82e03319b058c7d1e87af84ac4", null ],
+    [ "submit_case", "2___xF0_x9F_x94_x8E___preview_8py.html#a6c5a07df2eed06fa91cd03e72744cd9c", null ],
+    [ "try", "2___xF0_x9F_x94_x8E___preview_8py.html#acbe576583e526794ecd0bc6896cfab45", null ],
+    [ "use_checkbox", "2___xF0_x9F_x94_x8E___preview_8py.html#ac9308ad9d74884bc02bc467e3b38ad5a", null ]
+];

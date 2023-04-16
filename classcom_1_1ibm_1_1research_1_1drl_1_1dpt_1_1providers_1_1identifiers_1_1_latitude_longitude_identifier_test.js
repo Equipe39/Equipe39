@@ -1,0 +1,7 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_latitude_longitude_identifier_test =
+[
+    [ "testIsNotOfThisType", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_latitude_longitude_identifier_test.html#a85a43457cd6eff8efdde0af9f6722b3f", null ],
+    [ "testIsOfThisType", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_latitude_longitude_identifier_test.html#a715f519c4afbe331e233f98c2b6e57b6", null ],
+    [ "testParseCompassFormat", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_latitude_longitude_identifier_test.html#a5e55178f46e33b93b85357eaa29de4cc", null ],
+    [ "testQuickCheckBenefit", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_latitude_longitude_identifier_test.html#aa53bdfcf7c2adce29dd9abcaee079cf5", null ]
+];

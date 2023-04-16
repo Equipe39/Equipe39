@@ -1,0 +1,4 @@
+var _abstract_manager_based_identifier_8java =
+[
+    [ "com.ibm.research.drl.dpt.providers.identifiers.AbstractManagerBasedIdentifier", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_abstract_manager_based_identifier.html", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_abstract_manager_based_identifier" ]
+];

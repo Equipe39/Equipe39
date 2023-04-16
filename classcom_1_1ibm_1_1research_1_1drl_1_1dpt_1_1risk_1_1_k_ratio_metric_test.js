@@ -1,0 +1,5 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1risk_1_1_k_ratio_metric_test =
+[
+    [ "generationOfPartitionsForLinkingWithLinkColumnInformationThrows", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1risk_1_1_k_ratio_metric_test.html#a12ad9900821b6d4a1be1d7a6387df8c1", null ],
+    [ "generationOfPartitionsForLinkingWithNoColumnInformationThrows", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1risk_1_1_k_ratio_metric_test.html#ac507d13fa523a4fa42d8177261414a14", null ]
+];

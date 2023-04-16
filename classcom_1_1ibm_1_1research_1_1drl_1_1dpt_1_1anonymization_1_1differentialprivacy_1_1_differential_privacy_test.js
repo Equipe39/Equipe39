@@ -1,0 +1,6 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_test =
+[
+    [ "testCategoricalMechanism", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_test.html#ae6680030517ce020c6ca585afb6c698c", null ],
+    [ "testDiffPrivacyMean", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_test.html#a65a1f70e9fdecf4211ecac565b194229", null ],
+    [ "testNewDifferentialPrivacyClass", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1differentialprivacy_1_1_differential_privacy_test.html#a606ef23e7c1f9c21de9c25f31b0dd0b5", null ]
+];

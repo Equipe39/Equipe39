@@ -1,0 +1,7 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_u_k_post_code_identifier_test =
+[
+    [ "possiblyAddressableButIncorrect", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_u_k_post_code_identifier_test.html#af8962240e33ee7026dc785ec1dcebb3e", null ],
+    [ "supporsForKnownFormats", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_u_k_post_code_identifier_test.html#a4db58f43e423fdb72cbdf9f85c15ceed", null ],
+    [ "support7characterPostCodes", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_u_k_post_code_identifier_test.html#a8918e80254da4c06aa0f7390b4f0324e", null ],
+    [ "support8characterPostCodes", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_u_k_post_code_identifier_test.html#ac32bac8844f4c83a468ed3d2c3b1c577", null ]
+];

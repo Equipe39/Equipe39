@@ -1,0 +1,6 @@
+var enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1spark_1_1risk_1_1_distribution_extractor_options_1_1d1e0d8106695dfb8c605f916ffce25eb =
+[
+    [ "NONE", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1spark_1_1risk_1_1_distribution_extractor_options_1_1d1e0d8106695dfb8c605f916ffce25eb.html#a65a411fccb25022f632f0deee126d19b", null ],
+    [ "NUMBER", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1spark_1_1risk_1_1_distribution_extractor_options_1_1d1e0d8106695dfb8c605f916ffce25eb.html#a97bd220ea7467b368c392ed039986cd4", null ],
+    [ "SIZE", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1spark_1_1risk_1_1_distribution_extractor_options_1_1d1e0d8106695dfb8c605f916ffce25eb.html#aa807b535659e2db0419ed80148b19582", null ]
+];

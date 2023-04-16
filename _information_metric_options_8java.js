@@ -1,0 +1,4 @@
+var _information_metric_options_8java =
+[
+    [ "com.ibm.research.drl.dpt.anonymization.informationloss.InformationMetricOptions", "interfacecom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_information_metric_options.html", "interfacecom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_information_metric_options" ]
+];

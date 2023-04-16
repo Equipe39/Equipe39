@@ -1,0 +1,5 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_z_i_p_code_identifier_test =
+[
+    [ "testAgainstKnownDataset", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_z_i_p_code_identifier_test.html#a7d433679c3e4103b8f909eae6c6fea34", null ],
+    [ "testZIPCodeIdentifier", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1identifiers_1_1_z_i_p_code_identifier_test.html#ac06c124eb389a9f734dfb818731fc3ae", null ]
+];

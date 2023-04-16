@@ -1,0 +1,8 @@
+var enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_1_1_anonymization_algorithm =
+[
+    [ "KMAP", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_1_1_anonymization_algorithm.html#a4aa6421a8512d85e08638ae7e7ea6650", null ],
+    [ "KMEANS", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_1_1_anonymization_algorithm.html#aa96c71e6fbf98a8eaf5abaf86c38afbc", null ],
+    [ "MONDRIAN", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_1_1_anonymization_algorithm.html#a01f683481b98bb1db1ae2d4d89a3c85d", null ],
+    [ "OLA", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_1_1_anonymization_algorithm.html#ab8589ed30a6c41c54b36f9f28a7ca721", null ],
+    [ "SAMPLING", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1anonymization_1_1_anonymization_task_options_1_1_anonymization_algorithm.html#af8590c85951d7a136a23f928928ece6f", null ]
+];

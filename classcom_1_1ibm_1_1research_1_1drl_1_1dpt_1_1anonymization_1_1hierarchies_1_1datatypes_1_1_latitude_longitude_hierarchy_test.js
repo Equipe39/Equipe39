@@ -1,0 +1,4 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1hierarchies_1_1datatypes_1_1_latitude_longitude_hierarchy_test =
+[
+    [ "testLatLonHierarchy", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1hierarchies_1_1datatypes_1_1_latitude_longitude_hierarchy_test.html#a6495945d3343d75456431d0a799d4097", null ]
+];

@@ -1,0 +1,27 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test =
+[
+    [ "setUp", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a8aaea00bbcfcd2b775fbad2b6fe3a8b4", null ],
+    [ "testChecker", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#acd206925d8ee5b8c21df6d4af0af376d", null ],
+    [ "testClientILBug20180208Bad", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a8ca1b4ec637fb5515a583c2e85bb5238", null ],
+    [ "testClientILBug20180208Good", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a14b3d43d9b7cb69cd3ba9346a92c9f8f", null ],
+    [ "testDemo", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#ae4e6919ecb2a7ee59b9c7ca4d5563537", null ],
+    [ "testDemoDatasetOLA", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a71f68ee040ee861da1687ae80bbceee5", null ],
+    [ "testDumpForDecoy", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a5ffa61f31500ed1c897d8a47d7dc4a2a", null ],
+    [ "testOLA", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a4b1bf28a85976eb1621e4c63c2eb9cdc", null ],
+    [ "testOLAAgesClientIL", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a14177d3d7bbb8ab1c06e4fbece6c6ab3", null ],
+    [ "testOLAComputationalBased", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a2d99c90a0437ec36c36b1a78cf7afc7e", null ],
+    [ "testOLAMultipleDimensions", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a5f0eda52b2d333570307e77ae4852ab4", null ],
+    [ "testOLAMultipleDimensionsWithHeight", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#aca5dfaed35db445ad20ee25b3d64c2a2", null ],
+    [ "testOLAOriginalIsNotMutated", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a065ebd9cd76cfa0b943e8b28a3d23516", null ],
+    [ "testOLASingleAttribute", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a7e42dad55909a4ebf1af4309e2b7f9fd", null ],
+    [ "testOLAWithExplorationLimits", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a731198644b8f63859f473ab70df1b1ba", null ],
+    [ "testOLAWithHeader", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a0e2efe1187f643e8e46d75b974cda362", null ],
+    [ "testOLAWithLDiversityDistinct", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#ac368cf3980dffcd53f8a4c1aa5eaf801", null ],
+    [ "testPartitionAnonymousFlags", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a424dd17d3c29bf14a786cb9dd6db3977", null ],
+    [ "testPartitions", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a7a6ffa6a516b110bc6830eb2634e3232", null ],
+    [ "testPerformance", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#aad44149941d3ef9c6f1810586e99e39b", null ],
+    [ "testPerformanceFlorida", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a2ca30fe4f1a1db2df1fe8dff52c7d214", null ],
+    [ "testSanityChecks", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a5f98a6da1b08458c1145e9e5dcbf272d", null ],
+    [ "testSanityChecksLDiversity", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a4672421b533fde387f426d51a623d806", null ],
+    [ "verifyNoTransformationIsAppliedIfNoQuasiArePresent", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1ola_1_1_o_l_a_test.html#a77a894abd5127f8d584e0efd1a1190a1", null ]
+];

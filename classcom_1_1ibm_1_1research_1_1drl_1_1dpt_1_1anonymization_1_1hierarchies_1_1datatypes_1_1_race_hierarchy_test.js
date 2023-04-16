@@ -1,0 +1,4 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1hierarchies_1_1datatypes_1_1_race_hierarchy_test =
+[
+    [ "testRaceHierarchy", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1hierarchies_1_1datatypes_1_1_race_hierarchy_test.html#a6c6174091ee9ff7bbed854b39f71021a", null ]
+];

@@ -1,0 +1,5 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1spark_1_1anonymization_1_1ola_1_1_spark_anonymity_checker =
+[
+    [ "SparkAnonymityChecker", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1spark_1_1anonymization_1_1ola_1_1_spark_anonymity_checker.html#ad61361aa5d7cc712c68565561b783a3f", null ],
+    [ "calculateSuppressionRate", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1spark_1_1anonymization_1_1ola_1_1_spark_anonymity_checker.html#ac28ce8b6eea86b6a57cf8b57ef8ad5c1", null ]
+];

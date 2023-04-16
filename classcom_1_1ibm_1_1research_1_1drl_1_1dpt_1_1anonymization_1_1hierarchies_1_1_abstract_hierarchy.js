@@ -1,0 +1,4 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1hierarchies_1_1_abstract_hierarchy =
+[
+    [ "AbstractHierarchy", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1hierarchies_1_1_abstract_hierarchy.html#ad9ab49989b2ba224bcc9f263541e3cf1", null ]
+];

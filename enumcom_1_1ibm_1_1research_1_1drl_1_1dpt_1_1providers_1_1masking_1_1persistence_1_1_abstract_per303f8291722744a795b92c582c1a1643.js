@@ -1,0 +1,7 @@
+var enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1masking_1_1persistence_1_1_abstract_per303f8291722744a795b92c582c1a1643 =
+[
+    [ "CAUSAL", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1masking_1_1persistence_1_1_abstract_per303f8291722744a795b92c582c1a1643.html#a7ef465218a16b73c9624e837b5ce2b1c", null ],
+    [ "DATABASE", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1masking_1_1persistence_1_1_abstract_per303f8291722744a795b92c582c1a1643.html#af1ea8088dc08fe3294aa703702502d7f", null ],
+    [ "FILE", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1masking_1_1persistence_1_1_abstract_per303f8291722744a795b92c582c1a1643.html#ab0f99487d0f8d21d9db5f66b730fc74e", null ],
+    [ "MEMORY", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1masking_1_1persistence_1_1_abstract_per303f8291722744a795b92c582c1a1643.html#a28e61f8b586a173427790c824b9f1b88", null ]
+];

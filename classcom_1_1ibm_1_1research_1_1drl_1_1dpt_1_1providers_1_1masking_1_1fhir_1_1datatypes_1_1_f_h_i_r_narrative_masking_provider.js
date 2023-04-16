@@ -1,0 +1,5 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1masking_1_1fhir_1_1datatypes_1_1_f_h_i_r_narrative_masking_provider =
+[
+    [ "FHIRNarrativeMaskingProvider", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1masking_1_1fhir_1_1datatypes_1_1_f_h_i_r_narrative_masking_provider.html#a32712757a86bc062ebb94fcc67f17d02", null ],
+    [ "mask", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1providers_1_1masking_1_1fhir_1_1datatypes_1_1_f_h_i_r_narrative_masking_provider.html#a34960fe8d7ff9c3c9e232bfbc9bec677", null ]
+];

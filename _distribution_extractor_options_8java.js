@@ -1,0 +1,5 @@
+var _distribution_extractor_options_8java =
+[
+    [ "com.ibm.research.drl.dpt.spark.risk.DistributionExtractorOptions", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1spark_1_1risk_1_1_distribution_extractor_options.html", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1spark_1_1risk_1_1_distribution_extractor_options" ],
+    [ "com.ibm.research.drl.dpt.spark.risk.DistributionExtractorOptions.BinningCondition.BinningType", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1spark_1_1risk_1_1_distribution_extractor_options_1_1d1e0d8106695dfb8c605f916ffce25eb.html", "enumcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1spark_1_1risk_1_1_distribution_extractor_options_1_1d1e0d8106695dfb8c605f916ffce25eb" ]
+];

@@ -1,0 +1,5 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_discernibility_test =
+[
+    [ "testDiscernibilityNumericNoSuppression", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_discernibility_test.html#aebc3932474f589f5b7b833b67a2dca32", null ],
+    [ "testDiscernibilityWithSuppression", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1informationloss_1_1_discernibility_test.html#a4377d6785dd20e64921eed89d2d500f0", null ]
+];

@@ -1,0 +1,9 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1transaction__uniqueness_1_1_transaction_uniqueness_report =
+[
+    [ "TransactionUniquenessReport", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1transaction__uniqueness_1_1_transaction_uniqueness_report.html#a743915561d1f9c77fc49acf5a562763a", null ],
+    [ "getColumnsContributions", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1transaction__uniqueness_1_1_transaction_uniqueness_report.html#a4a3556265440871ac1a18e9a4d87cc32", null ],
+    [ "getTotalIDs", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1transaction__uniqueness_1_1_transaction_uniqueness_report.html#a6f6b3b09cc2b8ea00a825eea7a5d9634", null ],
+    [ "getTotalTransactions", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1transaction__uniqueness_1_1_transaction_uniqueness_report.html#a7b926a4d53c684ecaee026e43a05d2a8", null ],
+    [ "getUniqueIDs", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1transaction__uniqueness_1_1_transaction_uniqueness_report.html#ab16009a8c2e2d23492ea648889bc1f73", null ],
+    [ "getUniqueTransactions", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1toolkit_1_1transaction__uniqueness_1_1_transaction_uniqueness_report.html#a181ac4f7779dfb38baa384dd0d5e5893", null ]
+];

@@ -1,0 +1,10 @@
+var classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1hierarchies_1_1datatypes_1_1_z_i_p_code_comp_based_hierarchy =
+[
+    [ "encode", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1hierarchies_1_1datatypes_1_1_z_i_p_code_comp_based_hierarchy.html#a5f15826eba02a596776479272ff11a42", null ],
+    [ "getHeight", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1hierarchies_1_1datatypes_1_1_z_i_p_code_comp_based_hierarchy.html#a4a5e1dd4348d81851bcbc375bf7bb480", null ],
+    [ "getNodeLeaves", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1hierarchies_1_1datatypes_1_1_z_i_p_code_comp_based_hierarchy.html#a4a4be1a2974f28a18aa8c33d3b68fd67", null ],
+    [ "getNodeLevel", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1hierarchies_1_1datatypes_1_1_z_i_p_code_comp_based_hierarchy.html#a270c602def3d0c4c2182d8561d29da4a", null ],
+    [ "getTopTerm", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1hierarchies_1_1datatypes_1_1_z_i_p_code_comp_based_hierarchy.html#a1ff6a45489c572db58a899c874911e42", null ],
+    [ "getTotalLeaves", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1hierarchies_1_1datatypes_1_1_z_i_p_code_comp_based_hierarchy.html#af8cf2c2aa931122a0fec60d122a1ffa2", null ],
+    [ "leavesForNode", "classcom_1_1ibm_1_1research_1_1drl_1_1dpt_1_1anonymization_1_1hierarchies_1_1datatypes_1_1_z_i_p_code_comp_based_hierarchy.html#a204819b70391f8c9728e00a60362369a", null ]
+];

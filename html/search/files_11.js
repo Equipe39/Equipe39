@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['kanonymity_2ejava_0',['KAnonymity.java',['../_k_anonymity_8java.html',1,'']]],
+  ['kanonymitymetric_2ejava_1',['KAnonymityMetric.java',['../_k_anonymity_metric_8java.html',1,'']]],
+  ['kanonymitymetrictest_2ejava_2',['KAnonymityMetricTest.java',['../_k_anonymity_metric_test_8java.html',1,'']]],
+  ['kdtree_2ejava_3',['KDTree.java',['../_k_d_tree_8java.html',1,'']]],
+  ['kdtreetest_2ejava_4',['KDTreeTest.java',['../_k_d_tree_test_8java.html',1,'']]],
+  ['kmap_2ejava_5',['KMap.java',['../_k_map_8java.html',1,'']]],
+  ['kmapoptions_2ejava_6',['KMapOptions.java',['../_k_map_options_8java.html',1,'']]],
+  ['kmaptest_2ejava_7',['KMapTest.java',['../_k_map_test_8java.html',1,'']]],
+  ['kmeans_2ejava_8',['KMeans.java',['../_k_means_8java.html',1,'']]],
+  ['kmeansanonymization_2ejava_9',['KMeansAnonymization.java',['../_k_means_anonymization_8java.html',1,'']]],
+  ['kmeansanonymizationtest_2ejava_10',['KMeansAnonymizationTest.java',['../_k_means_anonymization_test_8java.html',1,'']]],
+  ['kmeanscluster_2ejava_11',['KMeansCluster.java',['../_k_means_cluster_8java.html',1,'']]],
+  ['kmeansclustertest_2ejava_12',['KMeansClusterTest.java',['../_k_means_cluster_test_8java.html',1,'']]],
+  ['kmeansoptions_2ejava_13',['KMeansOptions.java',['../_k_means_options_8java.html',1,'']]],
+  ['kmeanstest_2ejava_14',['KMeansTest.java',['../_k_means_test_8java.html',1,'']]],
+  ['kratiometric_2ejava_15',['KRatioMetric.java',['../_k_ratio_metric_8java.html',1,'']]],
+  ['kratiometrictest_2ejava_16',['KRatioMetricTest.java',['../_k_ratio_metric_test_8java.html',1,'']]]
+];

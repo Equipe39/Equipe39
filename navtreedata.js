@@ -273,7 +273,7 @@ var NAVTREE =
         [ "🔒 Anonymization", "md__r_e_a_d_m_e.html#autotoc_md305", null ]
       ] ],
       [ "Installation and launching the application", "md__r_e_a_d_m_e.html#autotoc_md306", null ],
-      [ "Who we are?", "md__r_e_a_d_m_e.html#autotoc_md307", null ]
+      [ "Who are we?", "md__r_e_a_d_m_e.html#autotoc_md307", null ]
     ] ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],

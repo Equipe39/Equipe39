@@ -130,12 +130,12 @@ Home</h2>
 <p>The anonymization section allows users to remove any sensitive data from the dataset. The tool offers several options such as removing specific columns, masking certain values with random characters, or replacing values with predefined values. The user can also select the type of masking to use, the columns to anonymize, and the characters to use for masking.</p>
 <h1><a class="anchor" id="autotoc_md306"></a>
 Installation and launching the application</h1>
-<p>You need to have a working version of <b>Python 3.9</b></p>
-<p>To be able to install the tool, you should run those commands in your terminal in this order:</p>
-<pre class="fragment">pip install -r requirements.txt
-streamlit run Home.py
-</pre><h1><a class="anchor" id="autotoc_md307"></a>
-Who we are?</h1>
+<p>Running the application requires <b>docker</b> to be installed. The supported os are windows and linux (alpine).</p>
+<p>Once docker is installed, run the following command in the project root:</p>
+<pre class="fragment">docker-compose up 
+</pre><p> After booting up, the app can be accessed at localhost:8501. Allow for a few seconds for the app components to properly setup.</p>
+<h1><a class="anchor" id="autotoc_md307"></a>
+Who are we?</h1>
 <p>The PolyBM Data Analysis Tool was developed by a team of five software engineering students from Polytechnique Montreal. The tool aims to help users with their science data assignments by providing a user-friendly interface for data analysis and manipulation </p>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->
